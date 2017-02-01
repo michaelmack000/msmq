@@ -1,0 +1,27 @@
+{
+  "name": "jordan-msmq",
+  "version": "0.0.1",
+  "author": "Jordan Olshevski",
+  "summary": "Manages Microsoft Message Queues",
+  "license": "Apache License, Version 2.0",
+  "source": "https://github.com/jolshevski/jordan-msmq",
+  "project_page": "https://github.com/jolshevski/jordan-msmq",
+  "issues_url": "https://github.com/jolshevski/jordan-msmq/issues",
+  "description": "Manages Microsoft Message Queues",
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "Windows",
+      "operatingsystemrelease": [
+        "Server 2008",
+        "Server 2008 R2",
+        "Server 2012",
+        "Server 2012 R2",
+        "7",
+        "8"
+      ]
+    }
+  ],
+  "dependencies": [
+  
+  ]
+}
